@@ -3,7 +3,8 @@ import React from 'react'
 function Sec5() {
   return (
     <div className='px-1 sm:px-5 bg-[#F5F5F5] '>
-        <div className=' bg-[url(background.png)] bg-center bg-cover bg-no-repeat w-full  h-[894px] '>
+        <div className=' bg-[url(section4
+        .png)] bg-center bg-cover bg-no-repeat w-full  h-[894px] '>
 
             
             <h1 className='text-center text-white text-4xl sm:text-6xl lg:text-8xl font-bold pt-[50px]'>Dreamlike Sound</h1>
