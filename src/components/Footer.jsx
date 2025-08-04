@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='text-center  py-[50px] bg-gradient-to-b from-[#F5F5F5] to-[#D2CDC6]'>
+    <div className='text-center px-[20px] sm:px-0  py-[50px] bg-gradient-to-b from-[#F5F5F5] to-[#D2CDC6]'>
         <div>
         <h1 className='text-[25px] sm:text-[42px] font-bold text-[#52483E]'>Sound. Presence. Purpose.</h1>
         <p className='text-[#8B8782] text-[15px] xl:text-[20px]'>Focused on crafting immersive audio experiences.</p>
