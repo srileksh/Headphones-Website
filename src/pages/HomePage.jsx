@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from '../components/Nav'
-import Sec1 from '../components/Home/sec1'
+import Sec1 from '../components/Home/Sec1'
 import Sec2 from '../components/Home/Sec2'
 import Sec3 from '../components/Home/Sec3'
 import Sec4 from '../components/Home/Sec4'
